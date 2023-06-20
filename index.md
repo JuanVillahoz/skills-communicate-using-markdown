@@ -29,7 +29,7 @@ public class Complejidad {
 ```
 
 #### Lista de logros
-1. [x] Paso 1
-1. [x] Tarea 2.2
-1. [ ] Comprobación
-1. [ ] Control resultados
+- [x] Paso 1
+- [x] Tarea 2.2
+- [ ] Comprobación
+- [ ] Control resultados
